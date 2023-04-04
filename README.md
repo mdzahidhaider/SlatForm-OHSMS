@@ -57,7 +57,9 @@ Roles of Employee:
 *Employee can change his/her password.<br>
 
 *********
+## Home Page
+<img src="https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2023-04-03/ZahidMainPage_428166.jpeg"/>
 
-	# ER Diagram![ER]
-	<a  href="https://user-images.githubusercontent.com/101389183/208307814-007bebfd-c997-4136-a348-3e05f5da8ab8.png" alt="Slatform" border="0"></a>
+## ER Diagram
+<img src="https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2023-04-03/ERzahid_842505.png"/>
 	
